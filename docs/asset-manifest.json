@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/carousel-zawh/static/css/main.951d33cd.css",
+    "main.js": "/carousel-zawh/static/js/main.f694d01d.js",
+    "static/js/453.5a6ed8f7.chunk.js": "/carousel-zawh/static/js/453.5a6ed8f7.chunk.js",
+    "static/media/revicons.eot": "/carousel-zawh/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/carousel-zawh/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/carousel-zawh/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/carousel-zawh/index.html",
+    "main.951d33cd.css.map": "/carousel-zawh/static/css/main.951d33cd.css.map",
+    "main.f694d01d.js.map": "/carousel-zawh/static/js/main.f694d01d.js.map",
+    "453.5a6ed8f7.chunk.js.map": "/carousel-zawh/static/js/453.5a6ed8f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951d33cd.css",
+    "static/js/main.f694d01d.js"
+  ]
+}
