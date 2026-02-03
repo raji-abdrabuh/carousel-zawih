@@ -1,0 +1,73 @@
+export const products_card = [
+    {
+      id: 1,
+      urlitem:"https://zawih.com/jbn-fyladlfya-or-4abwat-1650-jram-product",
+      name: "منتج 1جبن فيلادلفيا | 4عبوات * 1650 جرام",
+      price: "280",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1747143749262-a0djffeccdpzxehdxwlfzj7dudkbxhi0hthm4pwh1.webp",
+    },
+    {
+      id: 2,
+      urlitem:"https://zawih.com/poeder-milk-dnzmp-25kg-or-hlyb-ankwr-fwntyra-or-nywzylndy-",
+      name: "Poeder Milk DNZMP 25KG | حليب انكور فونتيرا | نيوزيلندي ",
+      price: "545",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1744006656540-anwo7yppp4dwsurtijuq0pltvnjge70zdcqe719s.webp",
+    },
+    {
+      id: 3,
+      urlitem:"https://zawih.com/wrq-anb-stl-fayn-myz-20kylw-product",
+      name: "ورق عنب سطل - فاين ميز- 20كيلو ",
+      price: "296",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=768,fit=crop,q=100/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV/assets/ca46d450-2b34-4c84-91b1-ea2b1ced1f3a.png",
+    },
+    {
+      id: 4,
+      urlitem:"https://zawih.com/krymh-khfq-aabd-fyjkrym-or-12-abwh-1ltr-product",
+      name: " كريمة خفق عابد 12*1لتر",
+      price: "160",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=768,fit=crop,q=100/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1745617899753--2025-04-26t005108.190.png",
+    },
+    {
+      id: 5,
+      urlitem:"https://zawih.com/le-chocolat-5kg-caramel-sea-salt-bucket-kramyl-bmlh-albhr-5kylw-",
+      name: "كراميل لي تشوكليت 5 كيلو ",
+      price: "127",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1749419639101-1000226326.png",
+    },
+    {
+      id: 6,
+      urlitem:"https://zawih.com/anchor-cream-cheese-or-jbn-ankwr-tshyz-6abwat-2kylw",
+      name: "جبن انكور تشيز 6*2 كيلو",
+      price: "383",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV/assets/6851b46d-9277-4ead-82e4-1ff002e54c9f.webp",
+    },
+    {
+      id: 7,
+      urlitem:"https://zawih.com/twinings-tea-or-shay-twynnjz",
+      name: "شاي تويننجز اخضر نقي 6*50 خيط ",
+      price: "250",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1744427747196-33.png",
+    },
+    {
+      id: 8,
+      urlitem:"https://zawih.com/nur-jahan-premium-rice-arz-nwr-jhan-mmtaz-10kylw-product",
+      name: "ارز نورجهان ممتاز 10 كييلو",
+      price: "92",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop,q=100/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1743630795070-fehfwoigzr2g8jzmd95x007xzwhweihccmp1bkdm1.jpg",
+    },
+    {
+      id: 9,
+      urlitem:"https://zawih.com/-zbdh-almraay-ghyr-mmlhh-hywany-25kylw-",
+      name:"زبدة المراعي حيوانية - 25 كيلو",
+      price: "1035",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV/assets/3c726622-21d7-46cf-b928-22d51ce37b60.png",
+    },
+    {
+      id: 10,
+      urlitem:"https://zawih.com/qshth-qymr-12abwh1ltr-ky-dy-dy",
+      name: " قشطة قيمر كي دي دي 12*1لتر",
+      price: "152",
+      image: "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop,q=100/cdn-ecommerce/store_01HWB0798JGMKY1NAZN0CYR7BV%2Fassets%2F1747172138231-1000193585.jpg",
+    },
+  ];
+  
